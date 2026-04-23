@@ -17,6 +17,16 @@
     <itunes:image href="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/cover.png"/>
 
     <item>
+      <title>Lead for Impact: Interview Podcast</title>
+      <description>Conversational deep-dive with Chris on leading for impact in the 3% of moments that shape culture. ER doctors, Tim Dillon make the problem big, three dumb ways, dishes test, 51% rule.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/lfi-podcast.mp3" length="19825101" type="audio/mpeg"/>
+      <guid isPermaLink="false">lfi-podcast-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 10:05:00 +0000</pubDate>
+      <itunes:duration>00:20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Culture: Narrative Keynote</title>
       <description>Culture is a direction, not a destination. The three elements (communicate, change, connect), faith-hope-love as culture framework, nine risk factors.</description>
       <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/culture-keynote.mp3" length="26104101" type="audio/mpeg"/>
