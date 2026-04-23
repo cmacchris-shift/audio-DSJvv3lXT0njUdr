@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SightShift Master Talks (Private)</title>
+    <link>https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/</link>
+    <atom:link href="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private rep audio for Chris McAlister. Voice-cloned keynote narratives and interview podcasts for in-car memorization. Not for distribution.</description>
+    <language>en-us</language>
+    <itunes:author>Chris McAlister</itunes:author>
+    <itunes:summary>Voice-cloned keynote audio of Chris McAlister's four master talks, for private in-car rep practice.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Chris McAlister</itunes:name>
+      <itunes:email>chris@sightshift.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business"/>
+    <itunes:image href="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/cover.png"/>
+
+    <item>
+      <title>Culture: Narrative Keynote</title>
+      <description>Culture is a direction, not a destination. The three elements (communicate, change, connect), faith-hope-love as culture framework, nine risk factors.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/culture-keynote.mp3" length="26104101" type="audio/mpeg"/>
+      <guid isPermaLink="false">culture-keynote-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 09:55:00 +0000</pubDate>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>AI: Narrative Keynote</title>
+      <description>Imagine. Discern. Build. The three capacities AI can't replace: SEE (Ginosko), SWEAT (Phronesis), STAY (Koinonia). The washing machine close.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/ai-keynote.mp3" length="36021019" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-keynote-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 09:50:00 +0000</pubDate>
+      <itunes:duration>00:37:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Stuck: Narrative Keynote</title>
+      <description>You are not stuck. You are in a season. Four seasons framework (Fall, Winter, Spring, Summer), IDK-cubed diagnostic, vernalization.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/stuck-keynote.mp3" length="28981332" type="audio/mpeg"/>
+      <guid isPermaLink="false">stuck-keynote-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 09:45:00 +0000</pubDate>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Lead for Impact: Narrative Keynote</title>
+      <description>Name the pain. Hold the line. Stay in the room. The 3% that shapes 97% of your culture. Impact = Right Action + Right Motive.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/lfi-keynote.mp3" length="36244209" type="audio/mpeg"/>
+      <guid isPermaLink="false">lfi-keynote-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 09:40:00 +0000</pubDate>
+      <itunes:duration>00:37:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
