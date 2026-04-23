@@ -17,6 +17,16 @@
     <itunes:image href="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/cover.png"/>
 
     <item>
+      <title>Culture: Interview Podcast</title>
+      <description>Conversational deep-dive with Chris on culture as the leader's mirror. Born in the darkness origin, Uncle Rico problem, faith/hope/love replacing Stoic apatheia, nine risk factors mapped to fruits of the Spirit.</description>
+      <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/culture-podcast.mp3" length="17217453" type="audio/mpeg"/>
+      <guid isPermaLink="false">culture-podcast-v1</guid>
+      <pubDate>Thu, 23 Apr 2026 10:50:00 +0000</pubDate>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>AI: Interview Podcast</title>
       <description>Conversational deep-dive with Chris on what AI reveals about leadership. The three capacities AI can't replace (SEE, SWEAT, STAY), tier 1 and 2 exposure, assistant replacement story, washing machine close.</description>
       <enclosure url="https://cmacchris-shift.github.io/audio-DSJvv3lXT0njUdr/episodes/ai-podcast.mp3" length="17523817" type="audio/mpeg"/>
